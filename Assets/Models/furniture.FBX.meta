@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: c350d1e28d401914b91d28754e2e00fc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anglepoise
+    100002: arc light001
+    100004: arc light002
+    100006: bed_single
+    100008: bench
+    100010: blackboard_01
+    100012: cardboard box
+    100014: computer
+    100016: crate
+    100018: crate_lid
+    100020: document_002
+    100022: document_003
+    100024: document_004
+    100026: document_005
+    100028: document_006
+    100030: document_007
+    100032: document_008
+    100034: document_1
+    100036: filing cabinet
+    100038: folder
+    100040: //RootNode
+    100042: lighting_stand
+    100044: locker003
+    100046: maglite
+    100048: office chair_a
+    100050: oscilloscope_a
+    100052: oscilloscope_b
+    100054: oxygen_tank
+    100056: pinboard_1
+    100058: powersupply
+    100060: powersupply 1
+    100062: powersupply001
+    100064: reception_desk
+    100066: reception_phone
+    100068: shelves_steel
+    100070: shelves_wall_mounted
+    100072: shelves_wooden
+    100074: solderstation
+    400000: anglepoise
+    400002: arc light001
+    400004: arc light002
+    400006: bed_single
+    400008: bench
+    400010: blackboard_01
+    400012: cardboard box
+    400014: computer
+    400016: crate
+    400018: crate_lid
+    400020: document_002
+    400022: document_003
+    400024: document_004
+    400026: document_005
+    400028: document_006
+    400030: document_007
+    400032: document_008
+    400034: document_1
+    400036: filing cabinet
+    400038: folder
+    400040: //RootNode
+    400042: lighting_stand
+    400044: locker003
+    400046: maglite
+    400048: office chair_a
+    400050: oscilloscope_a
+    400052: oscilloscope_b
+    400054: oxygen_tank
+    400056: pinboard_1
+    400058: powersupply
+    400060: powersupply 1
+    400062: powersupply001
+    400064: reception_desk
+    400066: reception_phone
+    400068: shelves_steel
+    400070: shelves_wall_mounted
+    400072: shelves_wooden
+    400074: solderstation
+    2100000: 01 - Default
+    2100002: No Name
+    2100004: 05 - Default
+    2100006: 03 - Default
+    2100008: 20 - Default
+    2100010: 04 - Default
+    2100012: 07 - Default2
+    2100014: 12 - Default
+    2100016: 11 - Default
+    2100018: 16 - Default
+    2100020: 15 - Default
+    2100022: 14 - Default
+    2100024: 09 - Default
+    2100026: 10 - Default
+    2100028: 08 - Default
+    2100030: 13 - Default
+    2100032: 17 - Default
+    2100034: 24 - Default
+    2100036: 23 - Default
+    2100038: 21 - Default
+    2100040: 18 - Default
+    2100042: 22 - Default
+    2300000: anglepoise
+    2300002: arc light001
+    2300004: arc light002
+    2300006: bed_single
+    2300008: bench
+    2300010: blackboard_01
+    2300012: cardboard box
+    2300014: computer
+    2300016: crate
+    2300018: crate_lid
+    2300020: document_002
+    2300022: document_003
+    2300024: document_004
+    2300026: document_005
+    2300028: document_006
+    2300030: document_007
+    2300032: document_008
+    2300034: document_1
+    2300036: filing cabinet
+    2300038: folder
+    2300040: lighting_stand
+    2300042: locker003
+    2300044: maglite
+    2300046: office chair_a
+    2300048: oscilloscope_a
+    2300050: oscilloscope_b
+    2300052: oxygen_tank
+    2300054: pinboard_1
+    2300056: powersupply
+    2300058: powersupply 1
+    2300060: powersupply001
+    2300062: reception_desk
+    2300064: reception_phone
+    2300066: shelves_steel
+    2300068: shelves_wall_mounted
+    2300070: shelves_wooden
+    2300072: solderstation
+    3300000: anglepoise
+    3300002: arc light001
+    3300004: arc light002
+    3300006: bed_single
+    3300008: bench
+    3300010: blackboard_01
+    3300012: cardboard box
+    3300014: computer
+    3300016: crate
+    3300018: crate_lid
+    3300020: document_002
+    3300022: document_003
+    3300024: document_004
+    3300026: document_005
+    3300028: document_006
+    3300030: document_007
+    3300032: document_008
+    3300034: document_1
+    3300036: filing cabinet
+    3300038: folder
+    3300040: lighting_stand
+    3300042: locker003
+    3300044: maglite
+    3300046: office chair_a
+    3300048: oscilloscope_a
+    3300050: oscilloscope_b
+    3300052: oxygen_tank
+    3300054: pinboard_1
+    3300056: powersupply
+    3300058: powersupply 1
+    3300060: powersupply001
+    3300062: reception_desk
+    3300064: reception_phone
+    3300066: shelves_steel
+    3300068: shelves_wall_mounted
+    3300070: shelves_wooden
+    3300072: solderstation
+    4300000: bench
+    4300002: shelves_wooden
+    4300004: shelves_steel
+    4300006: powersupply
+    4300008: filing cabinet
+    4300010: reception_phone
+    4300012: computer
+    4300014: office chair_a
+    4300016: locker003
+    4300018: bed_single
+    4300020: solderstation
+    4300022: oscilloscope_a
+    4300024: cardboard box
+    4300026: oxygen_tank
+    4300028: pinboard_1
+    4300030: powersupply
+    4300032: powersupply001
+    4300034: oscilloscope_b
+    4300036: blackboard_01
+    4300038: reception_desk
+    4300040: shelves_wall_mounted
+    4300042: document_1
+    4300044: document_002
+    4300046: document_003
+    4300048: document_004
+    4300050: document_005
+    4300052: document_006
+    4300054: document_007
+    4300056: document_008
+    4300058: folder
+    4300060: lighting_stand
+    4300062: maglite
+    4300064: crate
+    4300066: crate_lid
+    4300068: arc light001
+    4300070: anglepoise
+    4300072: arc light002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
